@@ -9,9 +9,12 @@
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grchristian&layout=compact&langs_count=6" alt="grchristian" />
 </p>
-
-I consider myself a person who found his passion at an early age because for as long as I can remember my passion has been computer technologies and I hope one day I can create and innovate in this area, I am currently studying my 7th semester of computer science and technology degree in Mexico City.
-
+<p>
+At a very young age, I found my vocation in computer engineering, which motivated me to become a computer science and technology engineer. I am excited to explore new opportunities that allow me to continue learning and growing professionally, intending to contribute to the advancement of the industry and create innovative solutions.
+</p>
+<p>
+My passion for this ever-evolving field drives me to face challenges, overcome obstacles and seek unique perspectives to address problems. I am determined to make my mark, be an inspirational leader and catalyze change, forging a future where technology is a positive and transformative force.
+</p>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=grchristian&count_private=true&show_icons=true&theme=vue" alt="grchristian" />
 </p>
