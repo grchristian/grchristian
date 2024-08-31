@@ -10,10 +10,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grchristian&layout=compact&langs_count=6" alt="grchristian" />
 </p>
 <p>
-At a very young age, I found my vocation in computer engineering, which motivated me to become a computer science and technology engineer. I am excited to explore new opportunities that allow me to continue learning and growing professionally, intending to contribute to the advancement of the industry and create innovative solutions.
+    Software Engineer with deep expertise in data structures, algorithms, and problem-solving. Specializing in optimized, scalable solutions using SQL and Python, I leverage my strong foundation in algorithms to tackle complex challenges efficiently.
 </p>
 <p>
-My passion for this ever-evolving field drives me to face challenges, overcome obstacles and seek unique perspectives to address problems. I am determined to make my mark, be an inspirational leader and catalyze change, forging a future where technology is a positive and transformative force.
+With a background in consulting and project management, I excel in client-facing roles and driving successful project outcomes. My proactive approach and understanding of agile methodologies enable me to deliver innovative, high-impact results in dynamic environments.
 </p>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=grchristian&count_private=true&show_icons=true&theme=vue" alt="grchristian" />
